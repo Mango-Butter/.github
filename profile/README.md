@@ -1,89 +1,121 @@
-## 🥭 망고보스 : 알바생 관리 자동화 솔루션
-> www.mangoboss.store
+# 🥭 망고보스  
+### 알바생 관리 자동화 솔루션
+망고보스와 함께 알바 관리, 쉽고 자동화되게. ✨ 지금 바로 경험해보세요! ✨
+
+🔗 [www.mangoboss.store](http://www.mangoboss.store)
 
 ![망고보스_썸네일](https://github.com/user-attachments/assets/fa80c4d7-8976-4d36-b279-f3a04301c092)
 
+<br><br>
 
 ## 📌 프로젝트 개요
 
-최저 임금 인상과 주휴 수당 의무화에 따른 **쪼개기 알바** 현상이 증가하면서, 알바생을 5인 이상 고용하고,
-매장에 상주하지 않는 소상공인 사장님들은 알바생 관리에 어려움을 겪고 있습니다. 망고 보스는 알바생 관리의 불편함을 해결하기 위해, 알바생 관리 자동화 솔루션을 제공합니다.
+최저 임금 인상과 주휴 수당 의무화에 따른 **쪼개기 알바** 현상이 증가하면서,  
+알바생을 5인 이상 고용하고 매장에 상주하지 않는 소상공인 사장님들은  
+알바생 관리에 어려움을 겪고 있습니다.  
 
-## 📌 프로젝트 설명
-망고 보스는 알바생 관리의 불편함을 해결하기 위해, 아래와 같은 기능을 제공합니다.
+**망고 보스**는 알바생 관리의 불편함을 해결하기 위해,  
+알바생 관리 자동화 솔루션을 제공합니다.
 
-<br>
+<br><br>
 
-<details> 
-<summary><b>1. 근태 및 근무 일정 조율 자동화 </b></summary>
-<br>
-알바생의 출퇴근 시간 기록 및 근무 일정 관리를 자동화합니다.<br>
-<b>QR 체크인이나 GPS 기반 출퇴근</b> 기록을 통해 출근 여부를 정확하게 파악할 수 있으며,<br>
-알바생이 직접 근무 변경이나 근태 기록 수정 요청을 할 수 있어  
-사장이 일일이 확인하고 처리해야 하는 부담을 줄여줍니다.<br>
-간편한 요청 승인 기능으로 근태 관리가 훨씬 편리해집니다.
+## 📌 프로젝트 설명  
+**망고보스**는 알바생 관리의 불편함을 해결하기 위해, 다음과 같은 기능을 제공합니다.
 
-<br>
-</details> 
+---
 
-<details> 
-<summary><b>2. 실시간 업무 관리 시스템</b></summary>
-<br>
-알바생의 업무 현황을 실시간으로 확인할 수 있는 대시보드를 제공합니다.<br>
-업무 지시 사항 전달, 완료 여부 체크, 피드백 기록 등의 기능을 포함하여  
-현장 운영 상황을 한눈에 파악하고 빠르게 대응할 수 있도록 지원합니다.  <br>
-이를 통해 커뮤니케이션 오류를 줄이고 업무 생산성을 향상시킬 수 있습니다.
-<br>
-</details> 
+<details>
+<summary><strong>🍀 1. 근태 및 근무 일정 조율 자동화</strong></summary>
 
-<details> 
-<summary><b>3. 근로 계약 및 서류 관리 자동화</b></summary>
-<br>
-전자 서명을 통해 근로 계약을 간편하게 체결할 수 있으며,  
-주민등록증 사본 등 필수 서류도 온라인으로 업로드할 수 있습니다. <br> 
-요청 중인지 완료됐는지 진행 상태를 쉽게 확인할 수 있고,  
-계약서는 PDF로 저장하거나 다시 내려받을 수 있어 관리가 편리합니다.  <br>
-모든 서류는 안전하게 보관되며 언제든 열람 가능합니다.
-<br>
-</details> 
+✅ 알바생의 출퇴근 시간 기록 및 근무 일정 관리 자동화  
+✅ <strong>QR 체크인 / GPS 기반 출퇴근</strong> 기능으로 정확한 출근 여부 파악  
+✅ 알바생이 직접 <u>근무 변경 요청 / 근태 기록 수정</u> 가능  
+✅ 사장은 간단한 승인만으로 근태 관리 가능  
 
-<details> 
-<summary><b>4. 급여 정산 자동화</b></summary>
-<br>
-출퇴근 기록, 시급, 주휴수당, 세금 및 각종 공제 항목을 바탕으로  
-급여를 자동 계산하고, 정해진 날짜에 맞춰 송금까지 자동화할 수 있습니다.  <br>
-알바생에게는 급여 명세서를 자동으로 발급해 투명하게 정보를 제공합니다.  <br>
-사장은 계산 실수 없이 편리하게 급여를 정산할 수 있습니다.
-<br>
+🧾 _불필요한 확인 과정을 줄여, 효율적인 일정 조율을 지원합니다._
+
 </details>
 
+---
+
+<details>
+<summary><strong>📊 2. 실시간 업무 관리 시스템</strong></summary>
+
+✅ 알바생 업무 현황을 실시간 확인할 수 있는 <strong>대시보드 제공</strong>  
+✅ 업무 지시, 완료 체크, 피드백 기록 등 <u>전체 커뮤니케이션 자동화</u>  
+✅ 현장 운영 상황을 <strong>한눈에 파악</strong>하여 즉각 대응 가능  
+
+📈 _업무 누락 없이, 커뮤니케이션 오류를 최소화합니다._
+
+</details>
+
+---
+
+<details>
+<summary><strong>📄 3. 근로 계약 및 서류 관리 자동화</strong></summary>
+
+✅ <strong>전자 서명</strong>을 통한 간편한 근로 계약 체결  
+✅ 주민등록증 사본 등 <u>필수 서류 업로드 및 진행 상태 확인</u>  
+✅ 계약서는 <strong>PDF 저장 및 다운로드</strong> 가능  
+✅ 모든 서류는 <strong>보안 저장</strong>되며 언제든 열람 가능  
+
+🔐 _문서 누락 걱정 없이, 체계적인 계약 관리를 돕습니다._
+
+</details>
+
+---
+
+<details>
+<summary><strong>💰 4. 급여 정산 자동화</strong></summary>
+
+✅ 출퇴근 기록 기반 <strong>급여 자동 계산</strong>  
+✅ <u>시급, 주휴수당, 세금, 공제 항목</u>까지 자동 반영  
+✅ <strong>정해진 날짜에 송금</strong> 자동화  
+✅ 알바생에게는 <strong>급여 명세서 자동 발급</strong>  
+
+📤 _실수 없는 급여 정산과 투명한 정보 공유가 가능합니다._
+
+</details>
+
+---
+
+<br><br>
 
 ## 🚀 레포지토리 목록
 
-- <a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 프론트엔드 레포지토리</a>
-- <a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 백엔드 레포지토리</a>
-- <a href="https://github.com/Mango-Butter/dev-infra" target="_blank"> 인프라 레포지토리</a>
+- 🔸 [프론트엔드 레포지토리](https://github.com/Mango-Butter/dev-fe)
+- 🔹 [백엔드 레포지토리](https://github.com/Mango-Butter/dev-be)
+- ⚙️ [인프라 레포지토리](https://github.com/Mango-Butter/dev-infra)
 
+---
+
+<br><br>
 
 ## 👤 팀 소개
 
-| 이름       | 학과 | 이메일 | 역할              |
-|----------| --- | --- |-----------------|
-| 정현지 (팀장) | 소프트웨어학과 | azureblue@ajou.ac.kr | Back-end, Infra |
-| 심재엽      | 소프트웨어학과 | jysim0326@ajou.ac.kr | Back-end        |
-| 윤석찬      | 소프트웨어학과 | ysc0731@ajou.ac.kr | Front-end       |
-| 이명건      | 소프트웨어학과 | lmk2430@ajou.ac.kr | Design          |
+| 이름       | 학과             | 이메일                     | 역할            |
+|------------|------------------|----------------------------|-----------------|
+| 정현지 (팀장) | 소프트웨어학과    | azureblue@ajou.ac.kr       | Back-end, Infra |
+| 심재엽      | 소프트웨어학과    | jysim0326@ajou.ac.kr        | Back-end        |
+| 윤석찬      | 소프트웨어학과    | ysc0731@ajou.ac.kr          | Front-end       |
+| 이명건      | 소프트웨어학과    | lmk2430@ajou.ac.kr          | Design          |
 
+---
 
+<br><br>
 
-## ⚙️ 시스템 개요
-<img width="589" alt="KakaoTalk_Photo_2025-06-08-21-21-47" src="https://github.com/user-attachments/assets/add5007e-2805-41d3-965a-dba443818487" />
+## ⚙️ 시스템 아키텍처
 
+<img src="https://github.com/user-attachments/assets/add5007e-2805-41d3-965a-dba443818487" alt="시스템 아키텍처" width="600"/>
+
+---
+
+<br><br>
 
 ## ✅ 협업 방식
 
 <details>
-<summary><b>데일리 스크럼 규칙</b></summary>
+<summary><b>🔄 데일리 스크럼 규칙</b></summary>
 
 **진행 방식**
 
@@ -99,8 +131,10 @@
 
 </details>
 
+---
+
 <details>
-<summary><b>커밋 규칙</b></summary>
+<summary><b>📝 커밋 규칙</b></summary>
 
 **형식**
 
@@ -128,13 +162,15 @@ ex) feat: 예약 Dto 수정 (#31)
 **작성 규칙**
 
 - 커밋 메시지는 **한글로** 작성
-- 파일명, 디렉토리명은 **커밋 메시지에 작성 금지**
+- 파일명, 디렉토리명은 **커밋 메시지에 작성 금지 ❌**
 - `:` 뒤에만 스페이스 있음 → `feat: 메시지`
 
 </details>
 
+---
+
 <details>
-<summary><b>이슈 작성 규칙</b></summary>
+<summary><b>📌 이슈 작성 규칙</b></summary>
 
 
 **제목 형식**
@@ -167,8 +203,10 @@ title: "[feat]"
 
 </details>
 
+---
+
 <details>
-<summary><b>풀 리퀘스트(PR) 규칙</b></summary>
+<summary><b>🔀 풀 리퀘스트(PR) 규칙</b></summary>
 
 
 **제목 형식**
@@ -215,8 +253,10 @@ ex) [#13] 로그인 페이지 퍼블리싱
 
 </details>
 
+---
+
 <details>
-<summary><b>브랜치 규칙</b></summary>
+<summary><b>🌿 브랜치 규칙</b></summary>
 
 
 **형식**
