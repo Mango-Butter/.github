@@ -17,6 +17,19 @@
 **망고 보스**는 알바생 관리의 불편함을 해결하기 위해,  
 알바생 관리 자동화 솔루션을 제공합니다.
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d09840e3-e54c-48b2-b2a3-f6440d6d7b28" width="800"/></td>
+      <td><img src="https://github.com/user-attachments/assets/8da58589-54de-4f27-880d-4fcda1556b60" width="800"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/64a5970a-a064-463d-a0de-8156f4211903" width="800"/></td>
+      <td><img src="https://github.com/user-attachments/assets/741337c8-00ae-41d7-9962-013efb7bf825" width="800"/></td>
+    </tr>
+  </table>
+</div>
+
 <br><br>
 
 ## 📌 프로젝트 설명  
@@ -27,13 +40,27 @@
 <details>
 <summary><strong>🍀 1. 근태 및 근무 일정 조율 자동화</strong></summary>
 
+<br>
+
 ✅ 알바생의 출퇴근 시간 기록 및 근무 일정 관리 자동화  
 ✅ <strong>QR 체크인 / GPS 기반 출퇴근</strong> 기능으로 정확한 출근 여부 파악  
 ✅ 알바생이 직접 <u>근무 변경 요청 / 근태 기록 수정</u> 가능  
 ✅ 사장은 간단한 승인만으로 근태 관리 가능  
 
+<br>
+
 🧾 _불필요한 확인 과정을 줄여, 효율적인 일정 조율을 지원합니다._
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/0745d843-21bd-4693-a7f6-2b1917485941" width="800"/></td>
+      <td><img src="https://github.com/user-attachments/assets/7d56a9e5-c6cc-468c-8234-885e9bbbd245" width="800"/></td>
+    </tr>
+  </table>
+</div>
 </details>
 
 ---
@@ -41,12 +68,26 @@
 <details>
 <summary><strong>📊 2. 실시간 업무 관리 시스템</strong></summary>
 
+<br>
+
 ✅ 알바생 업무 현황을 실시간 확인할 수 있는 <strong>대시보드 제공</strong>  
 ✅ 업무 지시, 완료 체크, 피드백 기록 등 <u>전체 커뮤니케이션 자동화</u>  
 ✅ 현장 운영 상황을 <strong>한눈에 파악</strong>하여 즉각 대응 가능  
 
+<br>
+
 📈 _업무 누락 없이, 커뮤니케이션 오류를 최소화합니다._
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/99b86713-7dba-4a75-8647-6cad856503fa" width="800"/></td>
+      <td><img src="https://github.com/user-attachments/assets/a4406d72-d9e6-4f71-a446-27b82043a3e3" width="800"/></td>
+    </tr>
+  </table>
+</div>
 </details>
 
 ---
@@ -54,13 +95,27 @@
 <details>
 <summary><strong>📄 3. 근로 계약 및 서류 관리 자동화</strong></summary>
 
+<br>
+
 ✅ <strong>전자 서명</strong>을 통한 간편한 근로 계약 체결  
 ✅ 주민등록증 사본 등 <u>필수 서류 업로드 및 진행 상태 확인</u>  
 ✅ 계약서는 <strong>PDF 저장 및 다운로드</strong> 가능  
 ✅ 모든 서류는 <strong>보안 저장</strong>되며 언제든 열람 가능  
 
+<br>
+
 🔐 _문서 누락 걱정 없이, 체계적인 계약 관리를 돕습니다._
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/13ccc971-21f0-45fd-8004-4f6775d114ff" width="800"/></td>
+      <td><img src="https://github.com/user-attachments/assets/45c63af2-be0a-460c-96d6-c4bc32814cfe" width="800"/></td>
+    </tr>
+  </table>
+</div>
 </details>
 
 ---
@@ -68,14 +123,28 @@
 <details>
 <summary><strong>💰 4. 급여 정산 자동화</strong></summary>
 
+<br>
+
 ✅ 출퇴근 기록 기반 <strong>급여 자동 계산</strong>  
 ✅ <u>시급, 주휴수당, 세금, 공제 항목</u>까지 자동 반영  
 ✅ <strong>정해진 날짜에 송금</strong> 자동화  
 ✅ 알바생에게는 <strong>급여 명세서 자동 발급</strong>  
 
+<br>
+
 📤 _실수 없는 급여 정산과 투명한 정보 공유가 가능합니다._
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      급여부분 채워넣을 것것
+    </tr>
+  </table>
+</div>
 </details>
+
 
 ---
 
@@ -98,7 +167,7 @@
 | 정현지 (팀장) | 소프트웨어학과    | azureblue@ajou.ac.kr       | Back-end, Infra |
 | 심재엽      | 소프트웨어학과    | jysim0326@ajou.ac.kr        | Back-end        |
 | 윤석찬      | 소프트웨어학과    | ysc0731@ajou.ac.kr          | Front-end       |
-| 이명건      | 소프트웨어학과    | lmk2430@ajou.ac.kr          | Design          |
+| 이명건      | 소프트웨어학과    | lmk2430@ajou.ac.kr          | Design, Publish |
 
 ---
 
@@ -275,3 +344,9 @@ ex) feat/#131/1-2
 4. `main`에 **Squash Merge**
 
 </details>
+
+---
+
+<br><br>
+
+<img width="1920" alt="Slide 16_9 - 16" src="https://github.com/user-attachments/assets/f1b7160e-1438-45eb-91cc-cb89f38bf54c" />
