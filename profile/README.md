@@ -60,11 +60,9 @@
 
 ## 🚀 레포지토리 목록
 
-<a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 프론트엔드 레포지토리</a>
-<br>
-<a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 백엔드 레포지토리</a>
-<br>
-<a href="https://github.com/Mango-Butter/dev-infra" target="_blank"> 인프라 레포지토리</a>
+- <a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 프론트엔드 레포지토리</a>
+- <a href="https://github.com/Mango-Butter/dev-fe" target="_blank"> 백엔드 레포지토리</a>
+- <a href="https://github.com/Mango-Butter/dev-infra" target="_blank"> 인프라 레포지토리</a>
 
 
 ## 👤 팀 소개
