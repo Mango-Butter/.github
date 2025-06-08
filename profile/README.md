@@ -35,21 +35,19 @@
 ## 📌 프로젝트 설명  
 **망고보스**는 알바생 관리의 불편함을 해결하기 위해, 다음과 같은 기능을 제공합니다.
 
----
-
 <details>
-<summary><strong>🍀 1. 근태 및 근무 일정 조율 자동화</strong></summary>
+<summary><strong> 1. 근태 및 근무 일정 조율 자동화</strong></summary>
 
 <br>
-
-✅ 알바생의 출퇴근 시간 기록 및 근무 일정 관리 자동화  
-✅ <strong>QR 체크인 / GPS 기반 출퇴근</strong> 기능으로 정확한 출근 여부 파악  
-✅ 알바생이 직접 <u>근무 변경 요청 / 근태 기록 수정</u> 가능  
-✅ 사장은 간단한 승인만으로 근태 관리 가능  
+<ul>
+<li>알바생의 출퇴근 시간 기록 및 근무 일정 관리 자동화  </li>
+<li><strong>QR 체크인 / GPS 기반 출퇴근</strong> 기능으로 정확한 출근 여부 파악  </li>
+<li>알바생이 직접 <u>근무 변경 요청 / 근태 기록 수정</u> 가능  </li>
+<li>사장은 간단한 승인만으로 근태 관리 가능  </li>
+</ul>
+  불필요한 확인 과정을 줄여, 효율적인 일정 조율 지원
 
 <br>
-
-🧾 _불필요한 확인 과정을 줄여, 효율적인 일정 조율을 지원합니다._
 
 <br>
 
@@ -63,20 +61,19 @@
 </div>
 </details>
 
----
 
 <details>
-<summary><strong>📊 2. 실시간 업무 관리 시스템</strong></summary>
+<summary><strong> 2. 실시간 업무 관리 시스템</strong></summary>
 
 <br>
-
-✅ 알바생 업무 현황을 실시간 확인할 수 있는 <strong>대시보드 제공</strong>  
-✅ 업무 지시, 완료 체크, 피드백 기록 등 <u>전체 커뮤니케이션 자동화</u>  
-✅ 현장 운영 상황을 <strong>한눈에 파악</strong>하여 즉각 대응 가능  
-
+<ul>
+<li>알바생 업무 현황을 실시간 확인할 수 있는 <strong>대시보드 제공</strong>  </li>
+<li>업무 지시, 완료 체크, 피드백 기록 등 <u>전체 커뮤니케이션 자동화</u>  </li>
+<li>현장 운영 상황을 <strong>한눈에 파악</strong>하여 즉각 대응 가능  </li>
+</ul>
 <br>
 
-📈 _업무 누락 없이, 커뮤니케이션 오류를 최소화합니다._
+   커뮤니케이션 오류를 줄이고 업무 생산성을 향상
 
 <br>
 
@@ -90,21 +87,19 @@
 </div>
 </details>
 
----
-
 <details>
-<summary><strong>📄 3. 근로 계약 및 서류 관리 자동화</strong></summary>
+<summary><strong> 3. 근로 계약 및 서류 관리 자동화</strong></summary>
 
 <br>
-
-✅ <strong>전자 서명</strong>을 통한 간편한 근로 계약 체결  
-✅ 주민등록증 사본 등 <u>필수 서류 업로드 및 진행 상태 확인</u>  
-✅ 계약서는 <strong>PDF 저장 및 다운로드</strong> 가능  
-✅ 모든 서류는 <strong>보안 저장</strong>되며 언제든 열람 가능  
-
+<ul>
+<li><strong>전자 서명</strong>을 통한 간편한 근로 계약 체결 </li> 
+<li>주민등록증 사본 등 <u>필수 서류 업로드 및 진행 상태 확인</u>  </li>
+<li>계약서는 <strong>PDF 저장 및 다운로드</strong> 가능  </li>
+<li>모든 서류는 <strong>보안 저장</strong>되며 언제든 열람 가능  </li>
+</ul>
 <br>
 
-🔐 _문서 누락 걱정 없이, 체계적인 계약 관리를 돕습니다._
+문서 누락 걱정 없는 체계적인 계약 관리
 
 <br>
 
@@ -118,21 +113,19 @@
 </div>
 </details>
 
----
-
 <details>
-<summary><strong>💰 4. 급여 정산 자동화</strong></summary>
+<summary><strong> 4. 급여 정산 자동화</strong></summary>
 
 <br>
-
-✅ 출퇴근 기록 기반 <strong>급여 자동 계산</strong>  
-✅ <u>시급, 주휴수당, 세금, 공제 항목</u>까지 자동 반영  
-✅ <strong>정해진 날짜에 송금</strong> 자동화  
-✅ 알바생에게는 <strong>급여 명세서 자동 발급</strong>  
-
+<ul>
+<li>출퇴근 기록 기반 <strong>급여 자동 계산</strong>  </li>
+<li><u>시급, 주휴수당, 세금, 공제 항목</u>까지 자동 반영  </li>
+<li><strong>정해진 날짜에 송금</strong> 자동화  </li>
+<li>알바생에게는 <strong>급여 명세서 자동 발급</strong> </li> 
+</ul>
 <br>
 
-📤 _실수 없는 급여 정산과 투명한 정보 공유가 가능합니다._
+실수 없는 급여 정산과 투명한 정보 공유
 
 <br>
 
@@ -146,17 +139,16 @@
 </details>
 
 
----
 
 <br><br>
 
 ## 🚀 레포지토리 목록
 
-- 🔸 [프론트엔드 레포지토리](https://github.com/Mango-Butter/dev-fe)
-- 🔹 [백엔드 레포지토리](https://github.com/Mango-Butter/dev-be)
-- ⚙️ [인프라 레포지토리](https://github.com/Mango-Butter/dev-infra)
+- [프론트엔드 레포지토리](https://github.com/Mango-Butter/dev-fe)
+- [백엔드 레포지토리](https://github.com/Mango-Butter/dev-be)
+- [인프라 레포지토리](https://github.com/Mango-Butter/dev-infra)
 
----
+
 
 <br><br>
 
@@ -169,22 +161,22 @@
 | 윤석찬      | 소프트웨어학과    | ysc0731@ajou.ac.kr          | Front-end       |
 | 이명건      | 소프트웨어학과    | lmk2430@ajou.ac.kr          | Design, Publish |
 
----
+
 
 <br><br>
 
-## ⚙️ 시스템 아키텍처
+## ⚙️ 시스템 아키텍쳐
 
 <img src="https://github.com/user-attachments/assets/add5007e-2805-41d3-965a-dba443818487" alt="시스템 아키텍처" width="600"/>
 
----
+
 
 <br><br>
 
-## ✅ 협업 방식
+## ✅ 협업 방식Add commentMore actions
 
 <details>
-<summary><b>🔄 데일리 스크럼 규칙</b></summary>
+<summary><b>데일리 스크럼 규칙</b></summary>
 
 **진행 방식**
 
@@ -200,10 +192,8 @@
 
 </details>
 
----
-
 <details>
-<summary><b>📝 커밋 규칙</b></summary>
+<summary><b>커밋 규칙</b></summary>
 
 **형식**
 
@@ -231,15 +221,13 @@ ex) feat: 예약 Dto 수정 (#31)
 **작성 규칙**
 
 - 커밋 메시지는 **한글로** 작성
-- 파일명, 디렉토리명은 **커밋 메시지에 작성 금지 ❌**
+- 파일명, 디렉토리명은 **커밋 메시지에 작성 금지**
 - `:` 뒤에만 스페이스 있음 → `feat: 메시지`
 
 </details>
 
----
-
 <details>
-<summary><b>📌 이슈 작성 규칙</b></summary>
+<summary><b>이슈 작성 규칙</b></summary>
 
 
 **제목 형식**
@@ -272,10 +260,8 @@ title: "[feat]"
 
 </details>
 
----
-
 <details>
-<summary><b>🔀 풀 리퀘스트(PR) 규칙</b></summary>
+<summary><b>풀 리퀘스트(PR) 규칙</b></summary>
 
 
 **제목 형식**
@@ -322,10 +308,8 @@ ex) [#13] 로그인 페이지 퍼블리싱
 
 </details>
 
----
-
 <details>
-<summary><b>🌿 브랜치 규칙</b></summary>
+<summary><b>브랜치 규칙</b></summary>
 
 
 **형식**
@@ -344,9 +328,3 @@ ex) feat/#131/1-2
 4. `main`에 **Squash Merge**
 
 </details>
-
----
-
-<br><br>
-
-<img width="1920" alt="Slide 16_9 - 16" src="https://github.com/user-attachments/assets/f1b7160e-1438-45eb-91cc-cb89f38bf54c" />
