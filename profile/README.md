@@ -145,8 +145,8 @@
 ## 🚀 레포지토리 목록
 
 - [프론트엔드 레포지토리](https://github.com/Mango-Butter/dev-fe)
-- [백엔드 레포지토리](https://github.com/Mango-Butter/dev-be)
-- [인프라 레포지토리](https://github.com/Mango-Butter/dev-infra)
+- [백엔드 레포지토리](https://github.com/Mango-Butter/dev-back)
+- [인프라 레포지토리](https://github.com/Mango-Butter/dev-manifests)
 
 
 
