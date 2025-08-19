@@ -127,15 +127,6 @@
 
 실수 없는 급여 정산과 투명한 정보 공유
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      급여부분 채워넣을 것것
-    </tr>
-  </table>
-</div>
 </details>
 
 
